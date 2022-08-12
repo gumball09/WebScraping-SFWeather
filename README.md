@@ -1,4 +1,5 @@
 Scrape weather data for San Francisco using `Python` and `Jupyter Notebook`
+<img width="1095" alt="image" src="https://user-images.githubusercontent.com/64393177/184447348-b3cb38e6-f236-4e4c-96a6-2ea31a313cd0.png">
 
 ### Setup
 
